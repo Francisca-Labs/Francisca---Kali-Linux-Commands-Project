@@ -1,4 +1,4 @@
-# Assignment 1 – System Information and Networking
+# Assignment 1 Kali Linux – System Information and Networking
 
 This project demonstrates practical **system information and networking activities performed using Kali Linux**. It covers Linux system identification, hardware and resource monitoring, internet connectivity testing, DNS resolution, and analysis of network round-trip times. 
 
